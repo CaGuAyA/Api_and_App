@@ -21,6 +21,13 @@ namespace Api.Services
             var query = from estudiante in _context.Estudiante
                         join curso in _context.Curso
                         on estudiante.Id_Estudiante equals curso.Id_Estudiante
+                        /*
+                         * from estudiante in _context.Estudiante
+                        join curso in _context.Curso
+                            on estudiante.Id_Estudiante equals curso.Id_Estudiante
+                        join profesor in _context.Profesor
+                            on curso.Id_Curso equals profesor.Id_Curso
+                        */
                         select new JoinModels
                         {
                             Id = estudiante.Id_Estudiante,

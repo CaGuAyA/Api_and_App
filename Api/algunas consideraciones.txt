@@ -1,0 +1,15 @@
+1 Crear una "Solucion blanco"
+2 Añadir un nuevo proyecto "ASP.NET Core Web API" con un Net 6
+3 En el archivo appSettings.Json añadir abajo de la primera llave:
+	"ConnectionStrings": {
+	    "DefaultConnection": "Server=DESKTOP-8FPQVPQ\\SQLEXPRESS; Database=example; User Id=RODRIGO; Password=123456;"
+	  },	
+4 Crear un nuevo archivo en Models
+5 Crear un nuevo archivo en Data
+6 Crear un nuevo archivo en Servicios
+7 Crear un archivo en Controllers
+
+Algunas instalaciones:
+Microsoft.EntityFrameworkCore version 6
+Microsoft.EntityFrameworkCor.SqlServer version 6
+itext7  version 7.2.4

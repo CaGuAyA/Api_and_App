@@ -76,3 +76,4 @@ C:\Users\Rodrigo\Desktop\DRCA\.net\Api_and_App\Api\bin\Debug\net6.0\itext.styled
 C:\Users\Rodrigo\Desktop\DRCA\.net\Api_and_App\Api\bin\Debug\net6.0\itext.svg.dll
 C:\Users\Rodrigo\Desktop\DRCA\.net\Api_and_App\Api\bin\Debug\net6.0\itext.commons.dll
 C:\Users\Rodrigo\Desktop\DRCA\.net\Api_and_App\Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Rodrigo\Desktop\DRCA\.net\Api_and_App\Api\obj\Debug\net6.0\Api.sourcelink.json
