@@ -1,1 +1,1 @@
-aplicacion creado con app .net
+Contenido combinado después de resolver el conflicto.
